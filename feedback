@@ -1,0 +1,18 @@
+<html>
+<font size=5>
+何か問い合わせしたいことがありましたら、以下のフォームをご利用下さい。
+</font>
+<br>
+<font size=2>
+注意:開発のために連絡することを許可する場合、メールアドレスやScratchアカウント名を入力してくれると大変有難いです。
+</font>
+<form method="post" action="https://m.kuku.lu/f.php">
+<input type="hidden" name="h" value="7403206ce6">
+<input type="hidden" name="action" value="sendMail">
+<textarea name="data"></textarea><br>
+<input type="submit" value="送信する"><br>
+
+</form>
+
+
+</html>
